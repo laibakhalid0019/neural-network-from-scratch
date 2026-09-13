@@ -1,4 +1,4 @@
-# Deep Learning for Perception — Assignment 1
+# Deep Learning for Perception - Assignment 1
 ### Building, Breaking and Fixing a Neural Network (Fashion-MNIST, PyTorch, Kaggle T4 x2)
 
 This repository contains the complete implementation for DLP Assignment 1: a from-scratch NumPy
